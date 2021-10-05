@@ -26,7 +26,7 @@ namespace CaesarCipher
             }
             else
             {
-                Console.WriteLine(cipher);
+                Console.Write(cipher);
             }
         }
         static void HandleParseError(IEnumerable<Error> errs)
