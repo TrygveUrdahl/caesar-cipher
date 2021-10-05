@@ -44,7 +44,7 @@ def main():
         with open(args.save, "w", encoding="utf-8") as f:
             f.write(cipher)
     else:
-        print(cipher)
+        print(cipher, end="")
 
 
 if __name__ == "__main__":
