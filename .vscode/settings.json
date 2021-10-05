@@ -1,0 +1,8 @@
+{
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "python.testing.cwd": "${workspaceFolder}\\CaesarCipherPy",
+  "python.linting.mypyEnabled": true,
+  "python.linting.enabled": true,
+  "dotnet-test-explorer.testProjectPath": "CaesarCipher\\CaesarCipherTest",
+}
